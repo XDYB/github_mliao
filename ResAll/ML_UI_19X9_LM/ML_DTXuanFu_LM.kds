@@ -1,0 +1,12 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_DTXuanFu_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM           = 1001,
+}

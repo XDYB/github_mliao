@@ -1,0 +1,12 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_XXDuiHuaTouXiang_LM.IDlis =
+{
+	--/* Custom ID */
+	ID_CUS_ML_TX147_LM           = 6001,
+}

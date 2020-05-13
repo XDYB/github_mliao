@@ -1,0 +1,23 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_MYXBiaoQianShuXing_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MIYIXIABIAOQIANTG_LM           = 1001,
+	ID_IMG_ML_MAIN2_LM                       = 1002,
+	ID_IMG_ML_MAIN3_LM                       = 1003,
+	ID_IMG_ML_MAIN2_LM1                      = 1004,
+	ID_IMG_ML_MAIN2_LM2                      = 1005,
+	ID_IMG_ML_MAIN2_LM3                      = 1006,
+	ID_IMG_ML_MAIN2_LM4                      = 1007,
+	ID_IMG_ML_MAIN2_LM21                     = 1008,
+	ID_IMG_ML_MAIN2_LM31                     = 1009,
+	ID_IMG_ML_MAIN2_LM41                     = 1010,
+	--/* Text ID */
+	ID_TXT_NO0                               = 4001,
+}

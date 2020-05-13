@@ -1,0 +1,18 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_PLTC_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_PingLunTC_LM           = 1001,
+	ID_IMG_ML_MAIN_LM                = 1002,
+	--/* Text ID */
+	ID_TXT_NO0                       = 4001,
+	ID_TXT_NO1                       = 4002,
+	--/* Custom ID */
+	ID_CUS_ML_MOREN_LM               = 6001,
+}

@@ -1,0 +1,15 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_ShiPinWuWangLuo_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM6           = 1001,
+	ID_IMG_ML_MAIN2_LM           = 1002,
+	--/* Text ID */
+	ID_TXT_NO5                   = 4001,
+}

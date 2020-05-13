@@ -1,0 +1,37 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_GFRenZheng_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN2_LM            = 1001,
+	ID_IMG_ML_MAIN_LM             = 1002,
+	ID_IMG_ML_MAIN_LM11           = 1003,
+	ID_IMG_ML_MAIN_LM14           = 1004,
+	ID_IMG_ML_MAIN_LM15           = 1005,
+	ID_IMG_ML_MAIN_LM16           = 1006,
+	ID_IMG_ML_MAIN_LM17           = 1007,
+	ID_IMG_ML_MAIN_LM18           = 1008,
+	--/* Text ID */
+	ID_TXT_NO5                    = 4001,
+	ID_TXT_NO6                    = 4002,
+	ID_TXT_NO7                    = 4003,
+	ID_TXT_NO8                    = 4004,
+	ID_TXT_NO9                    = 4005,
+	ID_TXT_NO10                   = 4006,
+	ID_TXT_NO11                   = 4007,
+	ID_TXT_NO12                   = 4008,
+	ID_TXT_NO13                   = 4009,
+	ID_TXT_NO14                   = 4010,
+	ID_TXT_NO15                   = 4011,
+	ID_TXT_NO16                   = 4012,
+	ID_TXT_NO17                   = 4013,
+	ID_TXT_NO18                   = 4014,
+	ID_TXT_NO19                   = 4015,
+	--/* Custom ID */
+	ID_CUS_ML_TX232_LM            = 6001,
+}

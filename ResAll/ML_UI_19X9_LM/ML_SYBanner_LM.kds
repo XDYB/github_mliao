@@ -1,0 +1,15 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_SYBanner_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM2             = 1001,
+	ID_IMG_ML_MAIN2_LM             = 1002,
+	ID_IMG_ML_BANNER1_LM           = 1003,
+	ID_IMG_ML_BANNER2_LM           = 1004,
+}

@@ -1,0 +1,29 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_GuanYuWoMen_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_LOGO1_LM            = 1001,
+	ID_IMG_ML_MAIN2_LM            = 1002,
+	ID_IMG_ML_MAIN2_LM1           = 1003,
+	ID_IMG_ML_MAIN2_LM2           = 1004,
+	ID_IMG_ML_MAIN2_LM3           = 1005,
+	ID_IMG_ML_MAIN_LM             = 1006,
+	ID_IMG_ML_MAIN_LM1            = 1007,
+	ID_IMG_ML_MAIN_LM2            = 1008,
+	ID_IMG_ML_MAIN_LM3            = 1009,
+	ID_IMG_ML_MAIN_LM4            = 1010,
+	ID_IMG_ML_MAIN_LM5            = 1011,
+	--/* Text ID */
+	ID_TXT_NO0                    = 4001,
+	ID_TXT_NO1                    = 4002,
+	ID_TXT_NO2                    = 4003,
+	ID_TXT_NO3                    = 4004,
+	ID_TXT_NO4                    = 4005,
+	ID_TXT_NO5                    = 4006,
+}

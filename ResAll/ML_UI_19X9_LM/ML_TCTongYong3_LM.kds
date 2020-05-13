@@ -1,0 +1,17 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_TCTongYong3_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM                 = 1001,
+	ID_IMG_ML_TONGYONGTC_LM           = 1002,
+	--/* Text ID */
+	ID_TXT_NO0                        = 4001,
+	ID_TXT_NO3                        = 4002,
+	ID_TXT_NO4                        = 4003,
+}

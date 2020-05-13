@@ -1,0 +1,15 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_ShuRuTiShi_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM4           = 1001,
+	ID_IMG_ML_MAIN2_LM           = 1002,
+	--/* Text ID */
+	ID_TXT_NO0                   = 4001,
+}

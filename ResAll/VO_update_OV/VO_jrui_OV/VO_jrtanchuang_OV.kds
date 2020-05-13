@@ -1,0 +1,12 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+VO_jrtanchuang_OV.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_JRTANCHUANGBG           = 1001,
+}

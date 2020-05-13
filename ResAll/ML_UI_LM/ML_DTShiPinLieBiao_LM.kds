@@ -1,0 +1,29 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_DTShiPinLieBiao_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_HUATIZIYUANS1_LM           = 1001,
+	ID_IMG_ML_MAIN2_LM                   = 1002,
+	ID_IMG_ML_MAIN_LM1                   = 1003,
+	ID_IMG_ML_MAIN_LM2                   = 1004,
+	ID_IMG_ML_MAIN_LM3                   = 1005,
+	ID_IMG_ML_MAIN_LM4                   = 1006,
+	ID_IMG_ML_MAIN_LM5                   = 1007,
+	ID_IMG_ML_MAIN_LM6                   = 1008,
+	ID_IMG_ML_MAIN_LM7                   = 1009,
+	--/* Text ID */
+	ID_TXT_NO0                           = 4001,
+	ID_TXT_NO1                           = 4002,
+	ID_TXT_NO2                           = 4003,
+	ID_TXT_NO3                           = 4004,
+	ID_TXT_NO4                           = 4005,
+	--/* Custom ID */
+	ID_CUS_ML_MAIN3_LM                   = 6001,
+	ID_CUS_ML_TX137_LM                   = 6002,
+}

@@ -1,0 +1,18 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_MYXPiPeiJieGuoNan_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_PIPEINAN_LM           = 1001,
+	ID_IMG_ML_MAIN2_LM              = 1002,
+	ID_IMG_ML_MAIN3_LM              = 1003,
+	--/* Text ID */
+	ID_TXT_NO0                      = 4001,
+	--/* Custom ID */
+	ID_CUS_ML_MAIN3_LM              = 6001,
+}

@@ -1,0 +1,26 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_MYXShaiXuanTC_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM                = 1001,
+	ID_IMG_ML_MIYIXIATG_LM           = 1002,
+	ID_IMG_ML_MAIN2_LM               = 1003,
+	ID_IMG_ML_MAIN3_LM               = 1004,
+	ID_IMG_ML_MAIN2_LM1              = 1005,
+	ID_IMG_ML_MAIN2_LM2              = 1006,
+	ID_IMG_ML_MAIN3_LM1              = 1007,
+	ID_IMG_ML_MAIN3_LM2              = 1008,
+	ID_IMG_ML_MAIN3_LM3              = 1009,
+	ID_IMG_ML_MAIN3_LM4              = 1010,
+	ID_IMG_ML_MAIN3_LM5              = 1011,
+	--/* Button ID */
+	ID_BTN_ML_MAIN2_LM               = 3001,
+	--/* Text ID */
+	ID_TXT_NO0                       = 4001,
+}

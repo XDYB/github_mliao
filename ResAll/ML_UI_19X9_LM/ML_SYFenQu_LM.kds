@@ -1,0 +1,25 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_SYFenQu_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN_LM2            = 1001,
+	ID_IMG_ML_MAIN_LM5            = 1002,
+	ID_IMG_ML_MAIN_LM6            = 1003,
+	ID_IMG_ML_MAIN_LM7            = 1004,
+	ID_IMG_ML_MAIN_LM8            = 1005,
+	ID_IMG_ML_MAIN_LM9            = 1006,
+	ID_IMG_ML_MAIN_LM10           = 1007,
+	--/* Text ID */
+	ID_TXT_NO0                    = 4001,
+	ID_TXT_NO1                    = 4002,
+	ID_TXT_NO2                    = 4003,
+	ID_TXT_NO3                    = 4004,
+	ID_TXT_NO4                    = 4005,
+	ID_TXT_NO5                    = 4006,
+}

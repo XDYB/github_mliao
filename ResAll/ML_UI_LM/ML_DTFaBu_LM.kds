@@ -1,0 +1,47 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_DTFaBu_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MAIN2_LM1               = 1001,
+	ID_IMG_ML_MAIN2_LM2               = 1002,
+	ID_IMG_ML_MAIN2_LM3               = 1003,
+	ID_IMG_ML_MAIN2_LM4               = 1004,
+	ID_IMG_ML_MAIN2_LM11              = 1005,
+	ID_IMG_ML_MAIN2_LM12              = 1006,
+	ID_IMG_ML_MAIN2_LM21              = 1007,
+	ID_IMG_ML_MAIN2_LM22              = 1008,
+	ID_IMG_ML_MAIN2_LM31              = 1009,
+	ID_IMG_ML_MAIN2_LM32              = 1010,
+	ID_IMG_ML_MAIN2_LM41              = 1011,
+	ID_IMG_ML_MAIN2_LM411             = 1012,
+	ID_IMG_ML_MAIN2_LM412             = 1013,
+	ID_IMG_ML_MAIN2_LM413             = 1014,
+	ID_IMG_ML_MAIN2_LM4131            = 1015,
+	ID_IMG_ML_MAIN2_LM41311           = 1016,
+	ID_IMG_ML_MAIN_LM                 = 1017,
+	ID_IMG_ML_MAIN_LM1                = 1018,
+	ID_IMG_ML_MAIN_LM8                = 1019,
+	ID_IMG_ML_MAIN_LM9                = 1020,
+	ID_IMG_ML_MAIN_LM10               = 1021,
+	ID_IMG_ML_MAIN_LM11               = 1022,
+	ID_IMG_ML_MAIN_LM12               = 1023,
+	ID_IMG_ML_MAIN_LM13               = 1024,
+	--/* Button ID */
+	ID_BTN_ML_MAIN_LM                 = 3001,
+	--/* Text ID */
+	ID_TXT_NO1                        = 4001,
+	ID_TXT_NO4                        = 4002,
+	ID_TXT_NO5                        = 4003,
+	ID_TXT_NO6                        = 4004,
+	--/* Custom ID */
+	ID_CUS_ML_MAIN2_LM                = 6001,
+	ID_CUS_ML_MAIN_LM0                = 6002,
+	ID_CUS_ML_MAIN_LM1                = 6003,
+	ID_CUS_ML_MAIN_LM2                = 6004,
+}

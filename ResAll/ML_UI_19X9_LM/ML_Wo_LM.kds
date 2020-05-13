@@ -1,0 +1,36 @@
+--[[*************************************
+*
+*   ÎÄ¼þ£ºIDDefine.kds
+*
+*   ÃèÊö£ºResource ID, macro definition
+*
+**************************************]]
+ML_Wo_LM.IDlis =
+{
+	--/* Image ID */
+	ID_IMG_ML_MEZHEZHAO_LM            = 1001,
+	ID_IMG_ML_MAIN2_LM                = 1002,
+	ID_IMG_ML_MAIN3_LM                = 1003,
+	ID_IMG_ML_MAIN3_LM1               = 1004,
+	ID_IMG_ML_MAIN3_LM2               = 1005,
+	ID_IMG_ML_MAIN3_LM3               = 1006,
+	ID_IMG_ML_MAIN3_LM4               = 1007,
+	ID_IMG_ML_MAIN3_LM5               = 1008,
+	ID_IMG_ML_MAIN3_LM6               = 1009,
+	ID_IMG_ML_MAIN3_LM7               = 1010,
+	ID_IMG_ML_MAIN3_LM8               = 1011,
+	ID_IMG_ML_MAIN3_LM9               = 1012,
+	ID_IMG_ML_MAIN_LM                 = 1013,
+	ID_IMG_ML_MAIN_LM6                = 1014,
+	ID_IMG_ML_MAIN_LM14               = 1015,
+	ID_IMG_ML_MAIN_LM15               = 1016,
+	--/* Text ID */
+	ID_TXT_NO1                        = 4001,
+	ID_TXT_NO2                        = 4002,
+	ID_TXT_NO3                        = 4003,
+	ID_TXT_NO4                        = 4004,
+	ID_TXT_NO5                        = 4005,
+	--/* Custom ID */
+	ID_CUS_ML_MEZIDINGYI_LM           = 6001,
+	ID_CUS_ML_MAIN3_LM                = 6002,
+}
